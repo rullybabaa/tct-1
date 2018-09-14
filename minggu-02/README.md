@@ -73,12 +73,12 @@ penunjang aplikasi website, sehingga waktu pembuatan menjadi lebih efisien. [6]
 # Analisis Sistem Yang Akan Dibangun
 Dari pembuatan aplikasi rekruitasi asprak berbasis SaaS, berikut ini rancangan aplikasi yang akan dibangun :
 
-+ [analisis sistem](https://github.com/ayuwidyainggit/tct/blob/master/images/g.png)
++ ![analisis sistem](https://github.com/ayuwidyainggit/tct/blob/master/images/g.png)
 
 ## Entity Relationship Diagram (ERD)
 Berikut ini adalah Entity-relationship diagram (ERD)
 dari aplikasi yang dibuat :
-+ [ERD](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
++ ![ERD](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
 
 ## Implementasi
 Aplikasi rekruitasi  asprak  berbasis  SaaS  ini  dibuat
