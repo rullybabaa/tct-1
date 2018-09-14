@@ -27,12 +27,12 @@ penunjang aplikasi website, sehingga waktu pembuatan menjadi lebih efisien. [6]
 # Analisis Sistem Yang Akan Dibangun
 Dari pembuatan aplikasi rekruitasi asprak berbasis SaaS, berikut ini rancangan aplikasi yang akan dibangun :
 
-+ [analisis sistem](https://github.com/ayuwidyainggit/tct/tree/master/minggu-01)
++ [analisis sistem](https://github.com/ayuwidyainggit/tct/blob/master/images/g.png)
 
 ## Entity Relationship Diagram (ERD)
 Berikut ini adalah Entity-relationship diagram (ERD)
 dari aplikasi yang dibuat :
-+ [ERD](https://github.com/ayuwidyainggit/tct/tree/master/minggu-01)
++ [ERD](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
 
 ## Implementasi
 Aplikasi rekruitasi  asprak  berbasis  SaaS  ini  dibuat
@@ -87,3 +87,8 @@ asprak) dapat masuk ke halaman calon asprak dan dapat mengerjakan soal ujian tes
 4.   Pengaturan SK asprak yang telah dinyatakan lulus. Dimana users (Calon asprak) yang telah dinyatakan lulus sebagai asprak dapat melihat SK asprak pada halaman asprak. SK asprak dapat diatur oleh admin fakultas.
 
 
+
+
+
+
+referensi : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjJg52N67ndAhVIgI8KHV1NDsUQFjAAegQIBRAC&url=http%3A%2F%2Fopenlibrary.telkomuniversity.ac.id%2Fpustaka%2Ffiles%2F104446%2Fjurnal_eproc%2Fpembuatan-aplikasi-rekruitasi-asisten-praktikum-berbasis-saas.pdf&usg=AOvVaw1pLE6rYuurgzUeZXGno5EK
