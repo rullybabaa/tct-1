@@ -1,6 +1,6 @@
 # ARSIEKTUR CLOUD COMPUTING
 
-
++ ![setting](https://github.com/ayuwidyainggit/tct/blob/master/images/p3.png)
 Arsitektur cloud computing adalah kemampuan pemrosesan dari sistem, bukan tampilan desktop-nya. 
 dan semua pengguna nantinya akan mengakses komputasi yang disediakan oleh server cloud ini menggunakan jaringan internet 
 dari berbagai macam media, namun jenis hardware ataupun sistem operasi yang ada di belakang layar tetap tidak akan terlihat.
@@ -16,13 +16,13 @@ Untuk memulai, kita perlu #### aplikasi web Chrome Drive
 yang dipasang di Chrome
 #### Aktifkan mode offline di Google Drive
 Masuk ke akun Anda di Google Drive, drive.google.com . Klik ikon Pengaturan (roda) di sudut kanan atas layar dan pilih Pengaturan .
-+ ![setting](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
++ ![setting](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_1.png)
 Di jendela yang terbuka, periksa opsi Sinkronkan Google Documents ... di bagian berlabel Offline . File Anda akan mulai diunduh ke 
 komputer Anda - ini termasuk Dokumen, Spreadsheet, Slide, dan Gambar.
 
 #### Aktifkan Mode Offline di Google Docs
 Pergi ke Google Docs - docs.google.com - dan login. Klik ikon menu hamburger ke arah kiri atas layar dan pilih Pengaturan .
-+ ![setting_docs](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
++ ![setting_docs](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_2.png)
 Di bawah Sinkronisasi luring klik Aktifkan . Tab baru akan terbuka dengan instruksi untuk menginstal aplikasi Web Chrome jika diperlukan, 
 kemudian untuk mengonfirmasi Anda ingin mengaktifkan akses offline.
 
@@ -32,7 +32,7 @@ terlalu cepat, atau Anda tidak akan dapat mengaksesnya. Untuk memastikan bahwa f
 
 Saat Anda offline, buka Google Drive atau Google Documents di browser Anda dengan membuka URL yang sama yang Anda gunakan dalam mode online. Semua file Anda akan terdaftar 
 seperti biasa, tetapi yang tidak tersedia secara offline akan berwarna abu-abu. 
-+ ![settingdocs](https://github.com/ayuwidyainggit/tct/blob/master/images/erd.png)
++ ![settingdocs](https://github.com/ayuwidyainggit/tct/blob/master/images/p3_3.png)
 
 Cara Menggunakan Google Docs atau Drive Offline di PC & Mobile
 
