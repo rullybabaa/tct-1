@@ -9,6 +9,8 @@ Layanan cloud yang ada pada BPaaS
  contoh layanan BPaaS :
 ## ERGOS
 
+![ergos](https://github.com/ayuwidyainggit/tct/blob/master/images/ERGOS.png)
+
 link : https://www.ergos.com/our-turn-key-solutions/business-process-management/
 ## Menyediakan layanan:
 1. Project Management
