@@ -22,91 +22,90 @@ mengambil source code dari https://handsontable.com/examples?manual-resize&manua
 
 index.html
 
-<!doctype html>
-<html>
-<head>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable-pro@latest/dist/handsontable.full.min.css">
-<link rel="stylesheet" type="text/css" href="https://handsontable.com/static/css/main.css">
-<script src="https://cdn.jsdelivr.net/npm/handsontable-pro@latest/dist/handsontable.full.min.js"></script>
-</head>
-<body>
-<div id="hot"></div>
-<script>var dataObject = [
-  {
-    id: 1,
-    flag: 'EUR',
-    currencyCode: 'EUR',
-    currency: 'Euro',
-    level: 0.9033,
-    units: 'EUR / USD',
-    asOf: '08/19/2018',
-    onedChng: 0.0026
-  },
-  {
-    id: 2,
-    flag: 'JPY',
-    currencyCode: 'JPY',
-    currency: 'Japanese Yen',
-    level: 124.3870,
-    units: 'JPY / USD',
-    asOf: '08/19/2018',
-    onedChng: 0.0001
-  },
-  {
-    id: 3,
-    flag: 'GBP',
-    currencyCode: 'GBP',
-    currency: 'Pound Sterling',
-    level: 0.6396,
-    units: 'GBP / USD',
-    asOf: '08/19/2018',
-    onedChng: 0.00
-  },
-  {
-    id: 4,
-    flag: 'CHF',
-    currencyCode: 'CHF',
-    currency: 'Swiss Franc',
-    level: 0.9775,
-    units: 'CHF / USD',
-    asOf: '08/19/2018',
-    onedChng: 0.0008
-  },
-  {
-    id: 5,
-    flag: 'CAD',
-    currencyCode: 'CAD',
-    currency: 'Canadian Dollar',
-    level: 1.3097,
-    units: 'CAD / USD',
-    asOf: '08/19/2018',
-    onedChng: -0.0005
-  },
-  {
-    id: 6,
-    flag: 'AUD',
-    currencyCode: 'AUD',
-    currency: 'Australian Dollar',
-    level: 1.3589,
-    units: 'AUD / USD',
-    asOf: '08/19/2018',
-    onedChng: 0.0020
-  },
-  {
-    id: 7,
-    flag: 'NZD',
-    currencyCode: 'NZD',
-    currency: 'New Zealand Dollar',
-    level: 1.5218,
-    units: 'NZD / USD',
-    asOf: '08/19/2018',
-    onedChng: -0.0036
-  },
-  {
-    id: 8,
-    flag: 'SEK',
-    currencyCode: 'SEK',
-    currency: 'Swedish Krona',
+     <!doctype html>
+     <html>
+     <head>
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/handsontable-pro@latest/dist/handsontable.full.min.css">
+     <link rel="stylesheet" type="text/css" href="https://handsontable.com/static/css/main.css">
+     <script src="https://cdn.jsdelivr.net/npm/handsontable-pro@latest/dist/handsontable.full.min.js"></script>
+     </head>
+     <body>
+     <div id="hot"></div>
+     <script>var dataObject = [
+       {
+         id: 1,
+         flag: 'EUR',
+         currencyCode: 'EUR',
+         currency: 'Euro',
+         level: 0.9033,
+         units: 'EUR / USD',
+         asOf: '08/19/2018',
+         onedChng: 0.0026
+       },
+       {
+         id: 2,
+         flag: 'JPY',
+         currencyCode: 'JPY',
+         currency: 'Japanese Yen',
+         level: 124.3870,
+         units: 'JPY / USD',
+         asOf: '08/19/2018',
+         onedChng: 0.0001
+       },
+       {
+         id: 3,
+         flag: 'GBP',
+         currency: 'Pound Sterling',
+         level: 0.6396,
+         units: 'GBP / USD',
+         asOf: '08/19/2018',
+         onedChng: 0.00
+       },
+       {
+         id: 4,
+         flag: 'CHF',
+         currencyCode: 'CHF',
+         currency: 'Swiss Franc',
+         level: 0.9775,
+         units: 'CHF / USD',
+         asOf: '08/19/2018',
+         onedChng: 0.0008
+       },
+       {
+         id: 5,
+         flag: 'CAD',
+         currencyCode: 'CAD',
+         currency: 'Canadian Dollar',
+         level: 1.3097,
+         units: 'CAD / USD',
+         asOf: '08/19/2018',
+         onedChng: -0.0005
+       },
+       {
+         id: 6,
+         flag: 'AUD',
+         currencyCode: 'AUD',
+         currency: 'Australian Dollar',
+         level: 1.3589,
+         units: 'AUD / USD',
+         asOf: '08/19/2018',
+         onedChng: 0.0020
+        },
+       {
+         id: 7,
+         flag: 'NZD',
+         currencyCode: 'NZD',
+         currency: 'New Zealand Dollar',
+         level: 1.5218,
+         units: 'NZD / USD',
+         asOf: '08/19/2018',
+         onedChng: -0.0036
+       },
+       {
+         id: 8,
+         flag: 'SEK',
+         currencyCode: 'SEK',
+         currency: 'Swedish Krona',
     level: 8.5280,
     units: 'SEK / USD',
     asOf: '08/19/2018',
