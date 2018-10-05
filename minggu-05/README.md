@@ -3,10 +3,10 @@
 ## hansontable
 
 KELOMPOK 1 
-1. Ayu Widya Inggit
-2. Annisa Fahma Aziza Yekti
-3. Lily Isnaini Astriningsih
-4. Enjang Dwi Kartini
+1. Ayu Widya Inggit 163210012
+2. Annisa Fahma Aziza Yekti 163210007
+3. Lily Isnaini Astriningsih 163210010
+4. Enjang Dwi Kartini 163210011
 
 web server :
 Apache
@@ -16,7 +16,7 @@ Cara menjalankan :
 2. httpd -k install
 3. httpd -k start
 
-![ergos](https://github.com/ayuwidyainggit/tct/blob/master/images/ERGOS.png)
+![ergos](https://github.com/ayuwidyainggit/tct/blob/master/minggu-05/images/Capture.PNG)
 
 mengambil source code dari https://handsontable.com/examples?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers
 
@@ -345,4 +345,4 @@ var hot = new Handsontable(hotElement, hotSettings);
 </html>
 
 Hasil :
-![ergos](https://github.com/ayuwidyainggit/tct/blob/master/images/ERGOS.png)
+![ergos](https://github.com/ayuwidyainggit/tct/blob/master/minggu-05/images/Screenshot_1.png)
