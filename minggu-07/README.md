@@ -1,3 +1,3 @@
 # MINGGU KETUJUH
 
-+ [MINGGU PERTAMA](https://github.com/ayuwidyainggit/mysql-express-nodejs)
++ [MINGGU 7](https://github.com/ayuwidyainggit/mysql-express-nodejs)
